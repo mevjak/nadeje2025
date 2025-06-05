@@ -1,0 +1,22 @@
+services:
+    node:
+        build:
+            context: .
+            args:
+                - IMAGE=node:20
+                - GITHUB_USER=${GITHUB_USER}
+                - GITHUB_TOKEN=${GITHUB_TOKEN}
+        volumes:
+            - ./:/var/www/app
+        ports:
+            - "8000:8000"
+        networks:
+            - server
+        working_dir: /var/www/app
+        entrypoint: "tail -f /dev/null"
+
+volumes:
+    data:
+
+networks:
+    server:
