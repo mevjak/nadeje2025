@@ -3,7 +3,7 @@ services:
         build:
             context: .
             args:
-                - IMAGE=node:20
+                - IMAGE=node:22
                 - GITHUB_USER=${GITHUB_USER}
                 - GITHUB_TOKEN=${GITHUB_TOKEN}
         volumes:

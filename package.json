@@ -1,8 +1,8 @@
 {
-  "name": "nadeje2025",
+  "name": "nadeje2011",
   "version": "1.0.0",
   "private": true,
-  "description": "nadeje2025",
+  "description": "nadeje2011",
   "keywords": [
     "gatsby"
   ],
@@ -14,8 +14,21 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@mdx-js/react": "^3.1.0",
+    "bootstrap": "^5.3.6",
     "gatsby": "^5.14.1",
+    "gatsby-plugin-image": "^3.14.0",
+    "gatsby-plugin-less": "^7.14.0",
+    "gatsby-plugin-manifest": "^5.14.0",
+    "gatsby-plugin-sharp": "^5.14.0",
+    "gatsby-source-filesystem": "^5.14.0",
+    "gatsby-transformer-json": "^5.14.0",
+    "gatsby-transformer-sharp": "^5.14.0",
+    "lodash": "^4.17.21",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "uuid": "^11.1.0"
   }
 }
