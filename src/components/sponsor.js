@@ -1,11 +1,11 @@
 import * as React from 'react'
-import { withPrefix } from 'gatsby'
+import {withPrefix} from 'gatsby'
 
-const Sponsor = ({ sponsor }) => {
+const Sponsor = ({sponsor}) => {
     return (
         <div className="col-md-2" style={{minHeight: '155px'}}>
-            <a href={sponsor.web} className="thumbnail" target="_blank">
-                <div className="sponsor"><img src={withPrefix('/images/sponsor/' + sponsor.image)} /></div>
+            <a href={sponsor.web} className="sponsor" target="_blank">
+                <div className="img-thumbnail"><img src={withPrefix('/images/sponsor/' + sponsor.image)}/></div>
             </a>
             <div className="caption">
                 <h4>{sponsor.name}</h4>

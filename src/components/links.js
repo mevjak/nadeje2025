@@ -1,17 +1,15 @@
 import * as React from "react"
 import { Link } from 'gatsby'
 
-const Links = ({ dir }) => {
-    const navClassName = 'nav navbar-nav navbar-' + dir;
-
+const Links = () => {
     return (
-        <ul className={navClassName}>
-            <li><Link to={'/'} className="link">Úvod</Link></li>
-            <li><Link to={'/clanky/'} className="link">Články</Link></li>
-            <li><Link to={'/akce/beh-nadeje/'} className="link">Akce</Link></li>
-            <li><Link to={'/sponzori/'} className="link">Sponzoři</Link></li>
-            <li><Link to={'/o-nas/'} className="link">O nás</Link></li>
-            <li><Link to={'/kontakt/'} className="link">Kontakt</Link></li>
+        <ul className="nav navbar-nav">
+            <li className="nav-item"> <Link to={'/'} className="nav-link">Úvod</Link></li>
+            <li className="nav-item"><Link to={'/clanky/'} className="nav-link">Články</Link></li>
+            <li className="nav-item"><Link to={'/akce/beh-nadeje/'} className="nav-link">Akce</Link></li>
+            <li className="nav-item"><Link to={'/sponzori/'} className="nav-link">Sponzoři</Link></li>
+            <li className="nav-item"><Link to={'/o-nas/'} className="nav-link">O nás</Link></li>
+            <li className="nav-item"><Link to={'/kontakt/'} className="nav-link">Kontakt</Link></li>
         </ul>
     )
 }
