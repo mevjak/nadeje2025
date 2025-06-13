@@ -1,5 +1,4 @@
 .footer {
-
   padding-top: 20px;
   padding-bottom: 20px;
 
@@ -7,64 +6,34 @@
     text-align: center;
   }
 
-  .navbar-brand {
-    margin-left: 15px;
-    margin-right: 25px;
-    width: 181px;
-    background-image: url('../images/logo-nadeje-footer.png');
-    background-position: center;
+  a.social {
+    display: block;
+    width: 240px;
+    height: 40px;
+    padding-left: 50px;
+    padding-top: 5px;
+    background-position: left center;
     background-repeat: no-repeat;
-    color: transparent;
-    font-size: 0;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 5px;
   }
 
-  .navbar-nav {
+  a.social-fb {
+    background-image: url('../images/icon-fb.png');
+  }
 
-    &.navbar-right {
-      margin-right: 10px;
-    }
+  a.social-tw {
+    background-image: url('../images/icon-tw.png');
+  }
 
-    li > a {
-      color: #fff;
-      padding-left: 0;
-      padding-right: 0;
-      margin-left: 8px;
-      margin-right: 8px;
-    }
+  a.social-gg {
+    background-image: url('../images/icon-gplus.png');
+  }
 
-    li.section > a, li > a.section, li.current > a, li > a.current {
-      font-weight: bold;
-    }
-
-    li > a:hover, li > a:active {
-      text-decoration: underline;
-      background-color: #000;
-    }
-
-    a.social {
-      width: 40px;
-      height: 40px;
-      background-position: center;
-      background-repeat: no-repeat;
-      color: transparent;
-      font-size: 0;
-      margin-top: 5px;
-    }
-
-    a.social-fb {
-      background-image: url('../images/icon-fb.png');
-    }
-    a.social-tw {
-      background-image: url('../images/icon-tw.png');
-    }
-    a.social-gg {
-      background-image: url('../images/icon-gplus.png');
-    }
-
-    @media (max-width: @grid-float-breakpoint) {
-      a.social {
-        width: 100%
-      }
-    }
+  span.copyright {
+    display: block;
+    color: #fff;
+    margin-top: 10px;
   }
 }
