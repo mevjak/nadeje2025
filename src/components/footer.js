@@ -1,6 +1,4 @@
 import * as React from "react"
-import { Navbar } from 'react-bootstrap'
-import Links from './links'
 
 const Footer = () => {
 
