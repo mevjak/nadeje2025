@@ -68,9 +68,6 @@ const AboutPage = () => {
                     Radka Houfková, Radka Kittlová, Aranka Rosíková, Laďka Šťěpánková, Zuzana Erlebachová, Andy Engeová,
                     Andy Rolli, Petra a Terka Keslovky, Petr a Helena Šťěpánkovi, Aleš Kejmar, Šárka Petráňová,
                     Alenka Ducháčková</i></p>
-
-                <p><span className="glyphicon glyphicon-heart" aria-hidden="true"/></p>
-
             </div>
         </Layout>
     )

@@ -92,6 +92,8 @@ const NadejePage = () => {
                             {/*<Link to={'/akce/memorial-petra-skrabalka/'} className="list-group-item link"> Memoriál*/}
                             {/*    Petra Škrabálka</Link>*/}
                         </div>
+                        <br/>
+                        <p>Sportovně humanitární akci <b>Běh naděje</b> v Jiřetíně pod Bukovou pořádáme již od roku 2011.</p>
                     </div>
                 </div>
             </div>
