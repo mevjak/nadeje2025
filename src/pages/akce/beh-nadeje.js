@@ -94,6 +94,9 @@ const NadejePage = () => {
                         </div>
                         <br/>
                         <p>Sportovně humanitární akci <b>Běh naděje</b> v Jiřetíně pod Bukovou pořádáme již od roku 2011.</p>
+                        <p>Jedním z hlavních cílů této akce je shromáždění finančních prostředků, které budou použity
+                            na <b>výzkum a specializovanou diagnostiku dětských leukémií</b> v Laboratorním centru Kliniky
+                            dětské hematologie a onkologie FN Motol.</p>
                     </div>
                 </div>
             </div>
