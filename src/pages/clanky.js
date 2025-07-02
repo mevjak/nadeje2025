@@ -1,6 +1,6 @@
 import * as React from "react"
 import Layout from '../components/layout'
-import {Link, withPrefix, graphql} from 'gatsby'
+import {graphql} from 'gatsby'
 import Article from "../components/article"
 
 const ArticlesPage = ({data}) => {
