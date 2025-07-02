@@ -7,12 +7,6 @@ module.exports = {
         siteUrl: `https://www.yourdomain.tld`
     },
     plugins: [
-        "gatsby-plugin-less",
-        "gatsby-plugin-image",
-        "gatsby-plugin-sharp",
-        "gatsby-plugin-mdx",
-        "gatsby-transformer-sharp",
-        "gatsby-transformer-json",
         {
             resolve: "gatsby-source-filesystem",
             options: {
@@ -36,6 +30,13 @@ module.exports = {
                 "path": `${__dirname}/src/pages/`
             },
             __key: "pages"
-        }
+        },
+        "gatsby-plugin-less",
+        "gatsby-plugin-image",
+        "gatsby-plugin-sharp",
+        "gatsby-plugin-mdx",
+        "gatsby-transformer-sharp",
+        "gatsby-transformer-json",
+        'gatsby-plugin-netlify', // make sure to keep it last in the array
     ]
 };
