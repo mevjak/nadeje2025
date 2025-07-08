@@ -37,6 +37,18 @@ module.exports = {
         "gatsby-plugin-mdx",
         "gatsby-transformer-sharp",
         "gatsby-transformer-json",
-        'gatsby-plugin-netlify', // make sure to keep it last in the array
+        {
+            resolve: 'gatsby-plugin-netlify',
+            options: {
+                headers: {
+                    "/*": [
+                        "Cache-Control: public, max-age=0, must-revalidate"
+                    ],
+                    "/static/*": [
+                        "Cache-Control: public, max-age=31536000, immutable"
+                    ]
+                }
+            }
+        } // make sure to keep it last in the array
     ]
 };
