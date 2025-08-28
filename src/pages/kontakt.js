@@ -1,5 +1,6 @@
 import * as React from "react"
 import Layout from '../components/layout'
+import {withPrefix} from "gatsby";
 
 const ContactPage = () =>  {
     return (
@@ -49,6 +50,9 @@ const ContactPage = () =>  {
                     <div className="bank-info border border-2 rounded">
                         <h4 className="text-center">Číslo účtu pro sponzory:</h4>
                         <p className="account">670100-2208920235/6210</p>
+                        <p className="text-center">
+                            <img src={withPrefix('/images/QR-platba.png')} />
+                        </p>
                     </div>
                 </div>
             </div>
