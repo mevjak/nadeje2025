@@ -1,4 +1,3 @@
-//import Collapse from "bootstrap/js/dist/collapse"
 import * as React from "react"
 import {Link} from 'gatsby'
 import Links from './links'
