@@ -59,15 +59,6 @@ const AboutPage = () => {
                         )
                     })}
                 </div>
-
-                <h2 className="centered">Dobrovolníci</h2>
-
-                <p>Při organizaci našich akcí se neobejdeme bez obětavé pomoci našich kamarádů dobrovolníků:</p>
-
-                <p><i>Martin a Honza ml. Fikarovi, Míra Evják ml., Eliška Jenková, Standa Valenta, Aleš Rydval,
-                    Radka Houfková, Radka Kittlová, Aranka Rosíková, Laďka Šťěpánková, Zuzana Erlebachová, Andy Engeová,
-                    Andy Rolli, Petra a Terka Keslovky, Petr a Helena Šťěpánkovi, Aleš Kejmar, Šárka Petráňová,
-                    Alenka Ducháčková</i></p>
             </div>
         </Layout>
     )

@@ -28,30 +28,11 @@
     "name": "Kitl s.r.o.",
     "web": "https://kitl.cz/",
     "image": "kitl.png"
-  },  {
+  },
+  {
     "name": "Vratislavická kyselka",
     "web": "http://www.vratislavka.cz",
     "image": "vk.png"
-  },
-  {
-    "name": "VESPO s.r.o.",
-    "web": "https://www.vespo.cz/",
-    "image": "vespo.jpg"
-  },
-  {
-    "name": "GUFEX s.r.o.",
-    "web": "https://gufex.cz/",
-    "image": "gufex.png"
-  },
-  {
-    "name": "Aleš Zeman – Zemní práce",
-    "web": "#",
-    "image": "aleszeman.png"
-  },
-  {
-    "name": "Stavební práce Sucharda",
-    "web": "https://www.fasuchardaivan.cz",
-    "image": "sucharda.png"
   },
   {
     "name": "MUDr. Karel Stuchlík",
@@ -59,14 +40,24 @@
     "image": "sponsor.png"
   },
   {
-    "name": "Autocentrum Tůma s.r.o.",
-    "web": "https://obchod-pneu.cz/",
-    "image": "sponsor.png"
+    "name": "Aleš Zeman – Zemní práce",
+    "web": "#",
+    "image": "aleszeman.png"
   },
   {
-    "name": "Huť Marie 1904",
-    "web": "https://www.hutmarie.cz/",
-    "image": "sponsor.png"
+    "name": "JAVECAR Jaroslav Veverka",
+    "web": "#",
+    "image": "javecar.png"
+  },
+  {
+    "name": "Stavební práce Sucharda",
+    "web": "https://www.fasuchardaivan.cz",
+    "image": "sucharda.png"
+  },
+  {
+    "name": "Firma Mitlík s.r.o.",
+    "web": "#",
+    "image": "mitlik.png"
   },
   {
     "name": "Kominictví Jan Pipek",
@@ -79,53 +70,33 @@
     "image": "sponsor.png"
   },
   {
+    "name": "Penzion Tipos",
+    "web": "#",
+    "image": "sponsor.png"
+  },
+  {
     "name": "Cukrárna u Voborníků",
     "web": "https://www.pensiontereza.cz",
     "image": "sponsor.png"
   },
   {
-    "name": "Bistro Fleur de Lis",
-    "web": "https://www.bistrofleur.cz/",
+    "name": "Penzion Světlý vrch - manželé Huškovi",
+    "web": "#",
+    "image": "sponsor.png"
+  },
+  {
+    "name": "FEEL s.r.o. Tomáš Feix",
+    "web": "#",
+    "image": "sponsor.png"
+  },
+  {
+    "name": "StepaZem s.r.o. Petr Štěpánek",
+    "web": "#",
     "image": "sponsor.png"
   },
   {
     "name": "Truhlářství Miroslav Jelínek",
     "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "FK Albrechtice - Jiřetín",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Penzion Sněženka",
-    "web": "https://www.pension-snezenka.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "CS Pro-Tec s.r.o.",
-    "web": "https://www.cspro-tec.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Knedlíky Lukavec",
-    "web": "https://www.knedliky-ricany.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Apartmány Maxov",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Chalupa U Alenky",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Albrechtík",
-    "web": "https://www.facebook.com/albrechtik.cz",
     "image": "sponsor.png"
   }
 ]

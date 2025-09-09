@@ -14,7 +14,7 @@ const SponsorsPage = () => {
                         name,
                         web,
                         image
-                    } 
+                    }
                 }
             }
         }
@@ -34,17 +34,27 @@ const SponsorsPage = () => {
                     })}
                 </div>
 
-                <br/><br/>
+                <br/>
 
-                {/*<h2 className="centered">Dobří lidé</h2>*/}
-                {/*<p className="text-center">*/}
-                {/*    <i>*/}
-                {/*        Iva Tejnská, Miroslav Balatka, Jakub a Daniela Charvátovi,*/}
-                {/*        Ladislava Štěpánková, manželé Bubníkovi, Milena Zelenková,*/}
-                {/*        Vladimír Enge, manželé Svárovští, manželé Hrunkovi, manželé Hudíkovi,*/}
-                {/*        Veronika Bělonožníková, Simona Veverková, Hynek Šebek, Šotek, Pedro.*/}
-                {/*    </i>*/}
-                {/*</p>*/}
+                <h2 className="centered">Dárci</h2>
+
+                <p><i>Rodina Hübnerova, rodina Olsen, manželé Bubeníkovi, manželé Štěpánkovi, manželé Chládkovi,
+                    manželé Svárovští, manželé Fouňovi, Lenka Vurmová a Jiří Chlum, Petr Štěpánek ml., Iva Tejnská,
+                    Ema Dong, Laďka Štěpánková, paní Fidlerová, paní Zelenková, Simona Veverková, Alexandra Víchová,
+                    Šárka Petráňová, Ema Zábrodská, Romana Lakomá, pan Bajus, pan Patrman, Roman Sucharda,
+                    Jan Mysliveček, Radek Polák, Vladimír Enge, Robert Bubník, Zdeněk Vodička, Jan Tlapák,
+                    Miroslav Balatka, Milan Bělohradský, Stanislav Sluka, Jiří Zeman, Ondra Málek, Radek Duda,
+                    Michal Veverka, Miroslav Evják.</i></p>
+
+                <br/>
+
+                <h2 className="centered">Dobrovolníci</h2>
+
+                <p>Na organizaci posledního ročníku Běhu naděje se podíleli naši obětaví kamarádi dobrovolníci:</p>
+
+                <p><i>Zuzana Erlebachová, Honza Fikar ml., Adam Kotus, Aranka Rosíková, Radka Kittlová, Laďka
+                    Štěpánková, Petr a Helena Štěpánkovi, Petra Keslová, Jana Petráňová, Šárka Petráňová, Míša a Martin
+                    Bouškovi, Michal Rovenský, Zuzka Petráňová, Radek a Bára Petráňovi, Petr Jelínek.</i></p>
 
             </div>
         </Layout>
