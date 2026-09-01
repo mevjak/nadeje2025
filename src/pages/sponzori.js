@@ -58,8 +58,6 @@ const SponsorsPage = () => {
 
                 <h2 className="centered">Děkujeme dobrovolníkům, kteří pomohli s organizací</h2>
 
-                <p className="centered"><b>Na organizaci posledního ročníku Běhu naděje se podíleli naši obětaví kamarádi dobrovolníci:</b></p>
-
                 <p><i>
                     Josef Kucín, Zuzka Erlebachová, Petr Jelínek, Aranka Rosíková, Radka Kittelová, Petr a Helča Štěpánkovi,
                     Andy a David Januškovi, Jana Petráňová, Laďka Štěpánková, Michal Rovenský, Adam Kotus, Martin Fikar,
