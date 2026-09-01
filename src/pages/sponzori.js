@@ -58,7 +58,7 @@ const SponsorsPage = () => {
 
                 <h2 className="centered">Děkujeme dobrovolníkům, kteří pomohli s organizací</h2>
 
-                <p>Na organizaci posledního ročníku Běhu naděje se podíleli naši obětaví kamarádi dobrovolníci:</p>
+                <h3 className="centered">Na organizaci posledního ročníku Běhu naděje se podíleli naši obětaví kamarádi dobrovolníci:</h3>
 
                 <p><i>
                     Josef Kucín, Zuzka Erlebachová, Petr Jelínek, Aranka Rosíková, Radka Kittelová, Petr a Helča Štěpánkovi,
