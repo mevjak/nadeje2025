@@ -1,15 +1,5 @@
 [
   {
-    "name": "ESET Research Czech Republic s.r.o.",
-    "web": "https://www.eset.com/cz/",
-    "image": "eset.png"
-  },
-  {
-    "name": "Obec Albrechtice v Jizerských horách",
-    "web": "https://www.albrechtice-jh.cz/",
-    "image": "albrechtice.png"
-  },
-  {
     "name": "Obec Jiřetín pod Bukovou",
     "web": "https://www.jiretinpb.cz",
     "image": "jiretin-pod-bukovou.png"
@@ -20,6 +10,11 @@
     "image": "josefuv-dul.png"
   },
   {
+    "name": "ESET Research Czech Republic s.r.o.",
+    "web": "https://www.eset.com/cz/",
+    "image": "eset.png"
+  },
+  {
     "name": "Tesařství Petr Smutný",
     "web": "https://www.smutny-tesarstvi.cz/",
     "image": "smutny.png"
@@ -28,104 +23,10 @@
     "name": "Kitl s.r.o.",
     "web": "https://kitl.cz/",
     "image": "kitl.png"
-  },  {
-    "name": "Vratislavická kyselka",
-    "web": "http://www.vratislavka.cz",
-    "image": "vk.png"
   },
   {
-    "name": "VESPO s.r.o.",
-    "web": "https://www.vespo.cz/",
-    "image": "vespo.jpg"
-  },
-  {
-    "name": "GUFEX s.r.o.",
-    "web": "https://gufex.cz/",
-    "image": "gufex.png"
-  },
-  {
-    "name": "Aleš Zeman – Zemní práce",
-    "web": "#",
-    "image": "aleszeman.png"
-  },
-  {
-    "name": "Stavební práce Sucharda",
-    "web": "https://www.fasuchardaivan.cz",
-    "image": "sucharda.png"
-  },
-  {
-    "name": "MUDr. Karel Stuchlík",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Autocentrum Tůma s.r.o.",
-    "web": "https://obchod-pneu.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Huť Marie 1904",
-    "web": "https://www.hutmarie.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Kominictví Jan Pipek",
-    "web": "https://zelinkapipek.sluzby.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Penzion Jana Hübnerová",
-    "web": "https://www.penzionhubnerova.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Cukrárna u Voborníků",
-    "web": "https://www.pensiontereza.cz",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Bistro Fleur de Lis",
-    "web": "https://www.bistrofleur.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Truhlářství Miroslav Jelínek",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "FK Albrechtice - Jiřetín",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Penzion Sněženka",
-    "web": "https://www.pension-snezenka.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "CS Pro-Tec s.r.o.",
-    "web": "https://www.cspro-tec.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Knedlíky Lukavec",
-    "web": "https://www.knedliky-ricany.cz/",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Apartmány Maxov",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Chalupa U Alenky",
-    "web": "#",
-    "image": "sponsor.png"
-  },
-  {
-    "name": "Albrechtík",
-    "web": "https://www.facebook.com/albrechtik.cz",
-    "image": "sponsor.png"
+    "name": "Stavební společnost TERMIL",
+    "web": "https://termil.cz/",
+    "image": "termil.png"
   }
 ]
